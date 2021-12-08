@@ -1,0 +1,36 @@
+::-webkit-scrollbar{
+    display: none;
+}
+a:link,a:visited,a:active{
+    text-decoration: none;
+}
+h1{
+    font-family: 'Gadugi','Calibri';
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    font-family: 'Gadugi','Calibri';
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+ul{
+    font-family: 'Gadugi','Calibri';
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p{
+    font-family: 'Gadugi','Calibri';
+    margin-left: 50px;
+    margin-right: 50px;
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+a{
+    font-family: 'Gadugi','Calibri';
+    color: gainsboro;
+}
